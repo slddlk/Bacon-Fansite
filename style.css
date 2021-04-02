@@ -1,0 +1,21 @@
+h1{
+  color : #b85135;
+  font-size: 50px;
+}
+
+img:hover{
+  background-color: red;
+}
+
+.bacon{
+  background-color: green;
+}
+.broccoli{
+  background-color: pink;
+}
+#font{
+  font-family: fantasy;
+}
+.radius{
+  border-radius: 20%;
+}
